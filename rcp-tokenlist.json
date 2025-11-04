@@ -1,0 +1,27 @@
+{
+  "name": "RCP Official List",
+  "logoURI": "https://rcp.helioho.st/res/logo.png", 
+  "keywords": [
+    "rcp",
+    "flare",
+    "meme",
+    "defi"
+  ],
+  "timestamp": "2025-11-04T09:28:00.000Z",
+  "tokens": [
+    {
+      "chainId": 14,
+      "name": "Real crypto profit",
+      "symbol": "RCP",
+      "decimals": 18,
+      "address": "0x3D81464A248D1DB279E0fF67815c49BDD89Fd20d",
+      "logoURI": "https://rcp.helioho.st/res/logo.png",
+      "feePct": 0
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
