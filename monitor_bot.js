@@ -1,8 +1,8 @@
 const ethers = require('ethers');
 
 // 1. PROVIDERS - Your Infura Endpoints with timeout configuration
-const ETH_PROVIDER = 'https://mainnet.infura.io/v3/849dc181182746c98cc8a91bcbf7c7ac';
-const POLYGON_PROVIDER = 'https://polygon-mainnet.infura.io/v3/849dc181182746c98cc8a91bcbf7c7ac';
+const ETH_PROVIDER = 'https://mainnet.infura.io/v3/<YOUR-API-KEY>';
+const POLYGON_PROVIDER = 'https://polygon-mainnet.infura.io/v3/<YOUR-API-KEY>';
 
 // 2. CONTRACT ADDRESSES - ETH/USD Price Feeds (Different for each chain)
 const ETH_FEED_ADDR = '0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419'; // Ethereum Mainnet
